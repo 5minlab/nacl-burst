@@ -1,0 +1,24 @@
+/dist/
+/node_modules/
+
+# Unity-generated local state if this package is opened inside Unity.
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+.DS_Store
