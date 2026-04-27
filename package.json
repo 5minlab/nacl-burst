@@ -1,0 +1,31 @@
+{
+  "name": "com.5minlab.nacl-burst",
+  "version": "0.1.0",
+  "displayName": "NaCl Burst",
+  "description": "Burst-only NaCl-compatible cryptography helpers for Unity.",
+  "unity": "2022.3",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "5minlab"
+  },
+  "keywords": [
+    "nacl",
+    "crypto",
+    "cryptography",
+    "burst"
+  ],
+  "dependencies": {
+    "com.unity.burst": "1.8.28"
+  },
+  "files": [
+    "package.json.meta",
+    "Runtime",
+    "Runtime.meta",
+    "README.md",
+    "README.md.meta",
+    "CHANGELOG.md",
+    "CHANGELOG.md.meta",
+    "LICENSE.md",
+    "LICENSE.md.meta"
+  ]
+}
