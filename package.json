@@ -1,6 +1,6 @@
 {
   "name": "com.5minlab.nacl-burst",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "displayName": "NaCl Burst",
   "description": "Burst-only NaCl-compatible cryptography helpers for Unity.",
   "unity": "2022.3",
